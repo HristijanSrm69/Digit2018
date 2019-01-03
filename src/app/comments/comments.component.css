@@ -1,0 +1,184 @@
+/*COMMENT*/
+.blog-cover {
+	height: 50vh;
+	background-attachment: fixed;
+	background-image: url("/assets/img/image1.jpg");
+}
+
+.carousel-indicators li {
+	background-color: grey;
+	border-color: grey;
+}
+
+.carousel-indicators .active {
+	background-color: white;
+	border-color: white;
+}
+
+.uppercase {
+    text-transform: uppercase;
+
+}
+
+.link-white {
+	color: white;
+}
+
+.link-white:hover {
+	text-decoration: underline;
+	color: white;
+	cursor: pointer;
+}
+
+
+.white-text {
+	color:white;
+}
+
+
+.bg-image {
+	background-image: url("/assets/img/photogrid.jpg");
+	background-repeat: none;
+	background-size: cover;
+}
+
+
+.cover-img {
+	max-height: 350px;
+}
+
+.bg-teal {
+	background-color: rgba(79,191,168,0.8);
+}
+
+.row-item {
+	padding: 60px;
+
+}
+
+.row-item h1 {
+	font-size: 40px;
+}
+
+.row-item p,
+.row-item li {
+	font-size: 20px;
+}
+
+.teal-line {
+	border-top: 3px solid #4fbfa8;
+	width: 50%;
+}
+
+.link-teal {
+	color: #4fbfa8;
+}
+
+.link-teal:hover {
+	text-decoration: none;
+	color: #4fbfa8;
+	cursor: pointer;
+}
+
+.padding {
+	padding-top:30px;
+	padding-bottom: 30px;
+}
+
+
+.bg-honey {
+	background-image: url("/assets/img/texture-bw.png");
+}
+
+
+.bg-grey {
+	background-color: #333;
+}
+
+.form-teal {
+	border-radius: 0;
+}
+
+.form-teal:focus {
+	border-color: #4fbfa8;
+	outline: 2px solid #4fbfa8;
+}
+
+.custom-ind ul li {
+	bottom:-40px;
+}
+
+.custom-ind li {
+	background-color: darkgrey;
+}
+
+.custom-ind .active {
+	background-color: grey;
+	border-color: grey;
+}
+
+.row-carousel {
+	margin-top: 20px;
+}
+
+.row-carousel .card {
+  padding: 20px;
+  background: #fff;
+  height: 350px;
+  margin-bottom: 80px;
+  display: flex;
+  box-shadow: 3px 6px 15px #333;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+
+.icont {
+  color: #4fbfa8;
+  font-size: 25px;
+  align-self: center;
+}
+
+.row-carousel .text {
+  font-size: 14px;
+}
+
+.row-carousel .text p {
+  color: #999;
+}
+
+.row-carousel .avatar {
+  min-width: 60px;
+  max-width: 60px;
+  min-height: 60px;
+  max-height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: 5px;
+}
+
+.row-carousel .bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+	text-align: right;
+}
+
+.card .text {
+	text-transform: none;
+}
+
+.title h5 {
+	text-transform: uppercase;
+	font-weight: bold;
+	color:black;
+}
+
+.bottom .title p {
+	font-size: 12px;
+	color: grey;
+}

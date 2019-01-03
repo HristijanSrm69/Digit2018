@@ -1,0 +1,53 @@
+/*SLIDESHOW*/
+#slideshow{
+    padding: 0px;
+}
+
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.carousel-indicators li {
+    height: 0px;
+    width: 25px;
+    margin: 0;
+    padding: 2px;
+}
+
+.button-top{
+width: 25%;
+height: 6vh;
+}
+
+.carousel-indicators .active {
+    height: 0px;
+    width: 25px;
+    margin: 0;
+    padding: 2px;
+}
+
+.slika1{
+    background-image: url("https://specialolympicsma.files.wordpress.com/2010/10/track-08-1.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.slika2 {
+    background-image: url("http://www.selfadvocacyonline.org/research/FINDS/school/images/special_ed_classroom_black_teacher.jpg");
+    background-size: cover;
+    background-position: top;
+    width: 100%;
+    height: 90vh;
+}
+
+.slika3 {
+    background-image: url("http://www.mercedsunstar.com/news/local/education/yxmy97/picture26415043/ALTERNATES/FREE_960/BV%20Summer%20Arts%201-----SECOND");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 90vh;
+}

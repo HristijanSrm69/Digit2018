@@ -1,0 +1,55 @@
+.thumbnail{
+    background-color: #f4f4f4;
+    color: black;
+    border-radius: 15px;
+    margin-top: 1%;
+    cursor: pointer;
+}
+
+.bg-dark{
+    background-color: #8b8b8b;
+    background-image: linear-gradient(141deg, #Dddddd 0%, #DADADA 51%, #cccccc 70%);
+
+}
+ a {
+    color: black;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.hiking-all{
+    padding-top:2%; 
+}
+.image-hiking{
+    float: left;
+    padding-left: 3%;
+}
+
+.tekst{
+    padding-top:3%;
+    text-align:center;
+    padding-right: 3%;
+    float: left;
+}
+
+.tekst-left{
+    padding-left:3%;
+}
+
+
+.hiking-started > h4{
+    font-weight: bold;
+    padding-top: 3%;
+}
+
+.hiking-started{
+    padding-left:3%;
+    padding-right:3%;
+}
+
+.image-running{
+    padding-right: 3%;
+}
